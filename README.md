@@ -1,0 +1,1 @@
+# post-linkedin-entidade-jpa
